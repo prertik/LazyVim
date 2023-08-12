@@ -87,7 +87,6 @@ return {
             hl_group = "CmpGhostText",
           },
         },
-        sorting = defaults.sorting,
       }
     end,
   },
